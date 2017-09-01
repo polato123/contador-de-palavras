@@ -16,6 +16,7 @@ ntestes=0
 npassou=0
 program=$1
 
+
 # Expressao do SED que significa: substituir .in por .out
 sedexpression='s/\.in/\.out/'
 
